@@ -1,0 +1,15 @@
+gradle-wrapper.jar
+/.gradle
+/captures/
+/gradlew
+/gradlew.bat
+/local.properties
+GeneratedPluginRegistrant.java
+.cxx/
+
+# Keystore & properties tracked for this project
+!key.properties
+**/*.keystore
+**/*.jks
+!app/aivance_release.jks
+

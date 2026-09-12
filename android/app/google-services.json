@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "390136759744",
+    "project_id": "ai-vance",
+    "storage_bucket": "ai-vance.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:390136759744:android:37c365aaa80e59d163b425",
+        "android_client_info": {
+          "package_name": "com.jaychauhan.aivance"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyfad7ygzoYiYfbv1k8TRRp9fjEFC_vno"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
